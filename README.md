@@ -1,4 +1,5 @@
 # Week7-Basic_Data_Analysis Assignment
+## Analyzing Data with Pandas and Visualizing Results with Matplotlib
 
 ## Description
 ### Task 1: Load and Explore the Dataset
